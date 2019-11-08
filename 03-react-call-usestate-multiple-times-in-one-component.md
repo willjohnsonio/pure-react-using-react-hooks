@@ -1,4 +1,4 @@
-# 0. Call useState Multiple Times in One Component
+# 03. Call useState Multiple Times in One Component
 
 [Video Link](https://egghead.io/lessons/react-call-usestate-multiple-times-in-one-component)
 
